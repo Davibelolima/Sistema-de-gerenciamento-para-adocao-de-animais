@@ -1,6 +1,6 @@
 # ViraLar — Controle de Adoção de Animais
 
-![Banner do projeto](docs/banner-viral.png)
+![Texto alternativo](https://github.com/Davibelolima/Sistema-de-gerenciamento-para-adocao-de-animais/blob/main/docs/ViraLar_%20Conectando%20Animais%20a%20Lares-1.png?raw=true)
 
 O ViraLar é um projeto acadêmico feito em Python para ajudar no cadastro e no acompanhamento de animais disponíveis para adoção. O sistema possui uma interface gráfica e salva as informações em um banco de dados local.
 
