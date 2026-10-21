@@ -14,7 +14,7 @@ O ViraLar é um projeto acadêmico feito em Python para ajudar no cadastro e no 
 - Criar contas e acessar o sistema com login e senha.
 - Controlar permissões de acesso às funções de cadastro e edição.
 
-- ![texto alternativo](C:\Users\davib\OneDrive\Imagens\Interface ViraLar_ Adoção Animal.png)
+- ![texto alternativo](https://github.com/Davibelolima/Sistema-de-gerenciamento-para-adocao-de-animais/blob/main/docs/Interface%20ViraLar_%20Ado%C3%A7%C3%A3o%20Animal.png?raw=true)
 
 
 ## Tecnologias utilizadas
