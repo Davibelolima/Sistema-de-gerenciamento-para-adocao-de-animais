@@ -70,4 +70,4 @@ As informações são guardadas em um banco de dados SQLite local. O programa ta
 
 ---
 
-Projeto desenvolvido para fins acadêmicos.
+Projeto desenvolvido para fins acadêmico.
